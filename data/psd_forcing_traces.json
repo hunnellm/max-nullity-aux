@@ -1,0 +1,164 @@
+[
+  {
+    "graph6": "KrcmR@G@YOhC",
+    "initial": [
+      0,
+      1,
+      4,
+      5
+    ],
+    "forces": [
+      {
+        "source": 0,
+        "target": 2,
+        "white_component": [
+          2,
+          3,
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "source": 1,
+        "target": 3,
+        "white_component": [
+          3
+        ]
+      },
+      {
+        "source": 0,
+        "target": 6,
+        "white_component": [
+          6
+        ]
+      },
+      {
+        "source": 2,
+        "target": 7,
+        "white_component": [
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "source": 5,
+        "target": 9,
+        "white_component": [
+          8,
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "source": 9,
+        "target": 8,
+        "white_component": [
+          8,
+          11
+        ]
+      },
+      {
+        "source": 1,
+        "target": 10,
+        "white_component": [
+          10
+        ]
+      },
+      {
+        "source": 1,
+        "target": 11,
+        "white_component": [
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "graph6": "KrcmR?DQGI_k",
+    "initial": [
+      0,
+      1,
+      4,
+      5
+    ],
+    "forces": [
+      {
+        "source": 0,
+        "target": 2,
+        "white_component": [
+          2,
+          3,
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "source": 1,
+        "target": 3,
+        "white_component": [
+          3
+        ]
+      },
+      {
+        "source": 0,
+        "target": 6,
+        "white_component": [
+          6
+        ]
+      },
+      {
+        "source": 2,
+        "target": 7,
+        "white_component": [
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "source": 1,
+        "target": 9,
+        "white_component": [
+          8,
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "source": 9,
+        "target": 8,
+        "white_component": [
+          8,
+          11
+        ]
+      },
+      {
+        "source": 5,
+        "target": 10,
+        "white_component": [
+          10
+        ]
+      },
+      {
+        "source": 5,
+        "target": 11,
+        "white_component": [
+          11
+        ]
+      }
+    ]
+  }
+]

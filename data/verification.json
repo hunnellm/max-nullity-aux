@@ -1,0 +1,112 @@
+[
+  {
+    "valid": true,
+    "rank": 7,
+    "nullity": 5,
+    "inertia": [
+      7,
+      0,
+      5
+    ],
+    "psd": true
+  },
+  {
+    "valid": true,
+    "rank": 6,
+    "nullity": 6,
+    "inertia": [
+      6,
+      0,
+      6
+    ],
+    "psd": true
+  },
+  {
+    "valid": true,
+    "rank": 6,
+    "nullity": 6,
+    "inertia": [
+      6,
+      0,
+      6
+    ],
+    "psd": true
+  },
+  {
+    "valid": true,
+    "rank": 6,
+    "nullity": 6,
+    "inertia": [
+      6,
+      0,
+      6
+    ],
+    "psd": true
+  },
+  {
+    "valid": true,
+    "rank": 6,
+    "nullity": 6,
+    "inertia": [
+      6,
+      0,
+      6
+    ],
+    "psd": true
+  },
+  {
+    "valid": true,
+    "rank": 7,
+    "nullity": 5,
+    "inertia": [
+      7,
+      0,
+      5
+    ],
+    "psd": true
+  },
+  {
+    "valid": true,
+    "rank": 6,
+    "nullity": 6,
+    "inertia": [
+      6,
+      0,
+      6
+    ],
+    "psd": true
+  },
+  {
+    "valid": true,
+    "rank": 6,
+    "nullity": 6,
+    "inertia": [
+      6,
+      0,
+      6
+    ],
+    "psd": true
+  },
+  {
+    "valid": true,
+    "rank": 7,
+    "nullity": 5,
+    "inertia": [
+      3,
+      4,
+      5
+    ],
+    "psd": false
+  },
+  {
+    "valid": true,
+    "rank": 7,
+    "nullity": 5,
+    "inertia": [
+      3,
+      4,
+      5
+    ],
+    "psd": false
+  }
+]

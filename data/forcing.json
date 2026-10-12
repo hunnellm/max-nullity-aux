@@ -1,0 +1,128 @@
+[
+  {
+    "graph6": "KrcmRAB`O@op",
+    "Z": 6,
+    "Zplus": 6,
+    "psd_forcing_set": [
+      0,
+      1,
+      2,
+      3,
+      5,
+      8
+    ]
+  },
+  {
+    "graph6": "KrcmRAB@o@op",
+    "Z": 6,
+    "Zplus": 6,
+    "psd_forcing_set": [
+      0,
+      1,
+      2,
+      3,
+      5,
+      8
+    ]
+  },
+  {
+    "graph6": "KrcmR?ACwjAs",
+    "Z": 6,
+    "Zplus": 6,
+    "psd_forcing_set": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      8
+    ]
+  },
+  {
+    "graph6": "KrcmR?@CwlAk",
+    "Z": 6,
+    "Zplus": 6,
+    "psd_forcing_set": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      8
+    ]
+  },
+  {
+    "graph6": "KrcmR?A@wjAs",
+    "Z": 6,
+    "Zplus": 6,
+    "psd_forcing_set": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      8
+    ]
+  },
+  {
+    "graph6": "KrcmR?@@wlAk",
+    "Z": 6,
+    "Zplus": 6,
+    "psd_forcing_set": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      8
+    ]
+  },
+  {
+    "graph6": "KrcmR?C@wfAs",
+    "Z": 6,
+    "Zplus": 6,
+    "psd_forcing_set": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      8
+    ]
+  },
+  {
+    "graph6": "KrcmR?OCwNAs",
+    "Z": 6,
+    "Zplus": 6,
+    "psd_forcing_set": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      8
+    ]
+  },
+  {
+    "graph6": "KrcmR@G@YOhC",
+    "Z": 6,
+    "Zplus": 4,
+    "psd_forcing_set": [
+      0,
+      1,
+      4,
+      5
+    ]
+  },
+  {
+    "graph6": "KrcmR?DQGI_k",
+    "Z": 6,
+    "Zplus": 4,
+    "psd_forcing_set": [
+      0,
+      1,
+      4,
+      5
+    ]
+  }
+]

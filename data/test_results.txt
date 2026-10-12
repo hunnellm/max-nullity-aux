@@ -1,0 +1,3 @@
+Python test suite: 12 passed, 1 skipped (2026-10-12).
+The skipped module requires native SageMath, unavailable in this environment.
+CLI search reproduced a rank-seven indefinite witness and exact verification passed.

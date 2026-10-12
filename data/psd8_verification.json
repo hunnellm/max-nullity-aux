@@ -1,0 +1,24 @@
+[
+  {
+    "valid": true,
+    "rank": 8,
+    "nullity": 4,
+    "inertia": [
+      8,
+      0,
+      4
+    ],
+    "psd": true
+  },
+  {
+    "valid": true,
+    "rank": 8,
+    "nullity": 4,
+    "inertia": [
+      8,
+      0,
+      4
+    ],
+    "psd": true
+  }
+]
